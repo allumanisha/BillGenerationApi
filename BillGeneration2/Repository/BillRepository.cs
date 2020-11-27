@@ -10,7 +10,7 @@ namespace BillGeneration2.Repository
     {
        static List<BillServices> bill = new List<BillServices>() { new BillServices{BillNo=1234,CustomerName="Manisha", BillAmt =680},
                                                                 new BillServices{BillNo=1235,CustomerName="Mounika", BillAmt =980},
-                                                                new BillServices{BillNo=1236,CustomerName="Usha", BillAmt =280} 
+                                                                new BillServices{BillNo=1236,CustomerName="Usha", BillAmt =280}, 
                                                                 new BillServices{BillNo=1237,CustomerName="Staym Naidu", BillAmt =1230}};
 
        
